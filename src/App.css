@@ -3,7 +3,7 @@
   }
   
   * {
-    box-sizing: border-box; 
+    box-sizing: border-box;
   }
   
   body {
@@ -24,7 +24,6 @@
     border-radius: 10px;
     box-shadow: 0 4px 9px 4px rgba(0, 0, 0, 0.1); 
   }
-
   .container .green{
     padding: 10px;
     background: linear-gradient(100deg, #028286, #036e65);
@@ -178,6 +177,7 @@ input[type='number'].error {
  
   @media (max-width: 767px){
     .container {
-      width: 365px;
+      width: 360px;
+      margin: 5px;
     }
   }
