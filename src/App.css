@@ -177,11 +177,11 @@ input[type='number'].error {
  
   @media (max-width: 767px){
     body{
-      width: 90%;
+      width: 85%;
       margin-left: 15px;
     }
     .container {
-      width: 360px;
+      width: 353px;
       margin: 5px;
     }
   }
