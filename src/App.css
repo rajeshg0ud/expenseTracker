@@ -176,6 +176,9 @@ input[type='number'].error {
 }
  
   @media (max-width: 767px){
+    body{
+      width: 90%;
+    }
     .container {
       width: 360px;
       margin: 5px;
