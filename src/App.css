@@ -173,9 +173,9 @@ input[type='number'].error {
   
   box-shadow: 0 0 5px 2px red; /* Red border for error */
 }
-  
-  @media (max-width: 320px) {
+ 
+  @media (max-width: 767px){
     .container {
-      width: 300px;
+      width: 365px;
     }
   }
