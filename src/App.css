@@ -20,7 +20,7 @@
   .container {
     margin: 10px auto;
     width: 400px;
-    border: 6px groove #036e65;
+    border:  6px groove #036e65;
     border-radius: 10px;
     box-shadow: 0 4px 9px 4px rgba(0, 0, 0, 0.1); 
   }
